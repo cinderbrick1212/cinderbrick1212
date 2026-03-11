@@ -1,13 +1,13 @@
 # Hi, I'm Anish Kapoor 👋
 ### Full-Stack Developer | AI "Power User" | B.Tech CS @ GGSIPU (2025–2029)
 
-Highly motivated developer focused on building secure, scalable APIs and cross-platform applications. I leverage AI development agents (GitHub Copilot, Claude) to accelerate development velocity by 3-5x and ship production-ready code rapidly.
+Highly motivated developer with a focus on building secure, scalable APIs and cross-platform applications. I leverage AI development agents (GitHub Copilot, Claude) to accelerate development velocity by 3-5x and ship production-ready code rapidly.
 
 ---
 
 ### 🛠️ Technical Stack
 - **Core:** JavaScript, TypeScript, Node.js, PostgreSQL, React Native (Expo), Python
-- **Backend & AI:** Firebase, RESTful APIs, JWT, OpenAI/Gemini/Claude LLM APIs
+- **Backend, Cloud & AI:** Google Cloud Platform (GCP), Firebase, RESTful APIs, JWT, OpenAI/Gemini/Claude LLM APIs
 - **DevOps & QA:** GitHub Actions (CI/CD), Devcontainers, Automated Testing
 
 ---
@@ -19,7 +19,7 @@ Highly motivated developer focused on building secure, scalable APIs and cross-p
 - Built a dual-LLM hybrid inference engine and automated cross-platform builds via GitHub Actions.
 
 #### [MyIPU](https://github.com/cinderbrick1212/MyIPU) | *University Student Hub Platform*
-- Serving thousands of GGSIPU students with a React Native frontend and Firebase serverless backend.
+- Serving thousands of GGSIPU students with a React Native frontend and serverless backend.
 - Features offline caching for study materials and a results dashboard with GPA trend analysis.
 
 #### [edu-backend](https://github.com/cinderbrick1212/edu-backend) | *Education Platform REST API*

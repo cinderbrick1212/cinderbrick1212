@@ -41,5 +41,4 @@ Highly motivated developer with a focus on building secure, scalable APIs and cr
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/a-n-e-e-s-h](https://linkedin.com/in/a-n-e-e-s-h)
 - **Email:** [iamanishkapoor@gmail.com](mailto:iamanishkapoor@gmail.com)
-- **Phone:** +91 9599077194
 - **Location:** New Delhi, India 🇮🇳
